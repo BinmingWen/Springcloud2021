@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ca32097-65de-4905-9beb-bf3fcee749ed" name="Default Changelist" comment="" />
+    <list default="true" id="8ca32097-65de-4905-9beb-bf3fcee749ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -27,6 +33,7 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1x6oywYZ1pOiePNEE6huj5nhvmW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,6 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -60,7 +68,7 @@
       <workItem from="1630372873004" duration="97000" />
       <workItem from="1630372987030" duration="69000" />
       <workItem from="1630573217852" duration="971000" />
-      <workItem from="1630630772377" duration="4419000" />
+      <workItem from="1630630772377" duration="6150000" />
     </task>
     <servers />
   </component>
@@ -72,10 +80,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="199" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1630372784872" />
-    <state x="785" y="394" key="Github.ShareDialog" timestamp="1630648961115">
+    <state x="785" y="394" key="Github.ShareDialog" timestamp="1630649187140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="785" y="394" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630648961115" />
+    <state x="785" y="394" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630649187140" />
+    <state x="502" y="155" key="Github.UntrackedFilesDialog" timestamp="1630649192871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="502" y="155" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630649192871" />
     <state width="1867" height="267" key="GridCell.Tab.0.bottom" timestamp="1629715298863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -96,6 +108,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="344" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1630372861974" />
+    <state x="583" y="264" key="git4idea.merge.GitPullDialog" timestamp="1630649482454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="264" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630649482454" />
     <state x="152" y="103" key="new project wizard" timestamp="1630632651844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
