@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8ca32097-65de-4905-9beb-bf3fcee749ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,12 +85,39 @@
       <workItem from="1630372873004" duration="97000" />
       <workItem from="1630372987030" duration="69000" />
       <workItem from="1630573217852" duration="971000" />
-      <workItem from="1630630772377" duration="6150000" />
+      <workItem from="1630630772377" duration="6394000" />
+      <workItem from="1630889793507" duration="1291000" />
+      <workItem from="1630975822686" duration="424000" />
+      <workItem from="1635489999644" duration="644000" />
     </task>
+    <task id="LOCAL-00001" summary="add entities class of projects">
+      <created>1630663900336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630663900336</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add entities class of projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="add entities class of projects" />
   </component>
   <component name="WindowStateProjectService">
     <state x="687" y="199" key="FileChooserDialogImpl" timestamp="1630372784872">
@@ -108,6 +152,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="344" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1630372861974" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1630663902751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1630663902751" />
     <state x="583" y="264" key="git4idea.merge.GitPullDialog" timestamp="1630649482454">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
