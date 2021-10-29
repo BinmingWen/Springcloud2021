@@ -12,6 +12,6 @@ import asia.wyu.cloudPlayment.entities.Payment;
 
 
 public interface PaymentService {
-    int create(String serial);
+    int create(Payment payment);
     Payment getPaymentById(Long id);
 }

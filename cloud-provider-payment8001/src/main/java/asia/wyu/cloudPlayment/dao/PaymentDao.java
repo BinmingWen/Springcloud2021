@@ -1,6 +1,7 @@
 package asia.wyu.cloudPlayment.dao;
 
 import asia.wyu.cloudPlayment.entities.Payment;
+import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 
 /**
@@ -11,10 +12,10 @@ import org.apache.ibatis.annotations.Param;
  * @create: 2021/10/29 17:35
  */
 
-
+@Mapper
 public interface PaymentDao {
 
-    int create(@Param("serial") String serial);
+    int create(Payment payment);
 
     Payment getPaymentById(@Param("id") Long id);
 }

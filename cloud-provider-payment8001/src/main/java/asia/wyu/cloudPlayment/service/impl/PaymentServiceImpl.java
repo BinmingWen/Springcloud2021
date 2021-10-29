@@ -22,8 +22,8 @@ public class PaymentServiceImpl implements PaymentService {
     private PaymentDao paymentDao;
 
     @Override
-    public int create(String serial) {
-        return paymentDao.create(serial);
+    public int create(Payment payment) {
+        return paymentDao.create(payment);
     }
 
     @Override

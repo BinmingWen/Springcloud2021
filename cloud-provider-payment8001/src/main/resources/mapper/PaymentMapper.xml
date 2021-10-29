@@ -2,21 +2,17 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
 <mapper namespace="asia.wyu.cloudPlayment.dao.PaymentDao">
-
-
-    <insert id="create" parameterType="asia.wyu.cloudPlayment.entities.Payment" useGeneratedKeys="true" keyProperty="id">
-            insert into payment(serial) values(${serial});
-
+    <insert id="create" keyProperty="id" useGeneratedKeys="true" parameterType="Payment">
+        insert into payment(serial) values(#{serial})
     </insert>
 
-    <resultMap id="BaseResultMap" type="asia.wyu.cloudPlayment.entities.Payment">
-        <id column="id" property="id" jdbcType="BIGINT"></id>
-        <id column="serial" property="serial" jdbcType="VARCHAR"></id>
+    <resultMap id="BaseResultMap" type="asia.wyu.cloudPlayment.entities">
+        <result column="id" property="id" jdbcType="BIGINRT"></result>
+        <result column="serial" property="serial" jdbcType="VARCHAR"></result>
     </resultMap>
-    <select id="getPaymentById"  parameterType="Long" resultMap="BaseResultMap">
-            select * from payment where id=#{id}
+    <select id="getPaymentById" resultMap="BaseResultMap" parameterType="Long">
+        select * from payment where id = #{id}
     </select>
-
 
 </mapper>
 
