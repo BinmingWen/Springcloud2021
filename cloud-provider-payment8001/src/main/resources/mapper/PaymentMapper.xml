@@ -6,8 +6,8 @@
         insert into payment(serial) values(#{serial})
     </insert>
 
-    <resultMap id="BaseResultMap" type="asia.wyu.cloudPlayment.entities">
-        <result column="id" property="id" jdbcType="BIGINRT"></result>
+    <resultMap id="BaseResultMap" type="asia.wyu.cloudPlayment.entities.Payment">
+        <result column="id" property="id" jdbcType="BIGINT"></result>
         <result column="serial" property="serial" jdbcType="VARCHAR"></result>
     </resultMap>
     <select id="getPaymentById" resultMap="BaseResultMap" parameterType="Long">
