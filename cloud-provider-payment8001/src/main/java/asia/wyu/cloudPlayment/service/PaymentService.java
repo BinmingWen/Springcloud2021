@@ -1,6 +1,7 @@
 package asia.wyu.cloudPlayment.service;
 
-import asia.wyu.cloudPlayment.entities.Payment;
+
+import com.jepusi.apiCommons.entities.Payment;
 
 /**
  * @class: asia.wyu.cloudPlayment.service.PaymentService

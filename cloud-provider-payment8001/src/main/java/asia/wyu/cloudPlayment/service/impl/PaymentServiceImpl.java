@@ -1,8 +1,9 @@
 package asia.wyu.cloudPlayment.service.impl;
 
 import asia.wyu.cloudPlayment.dao.PaymentDao;
-import asia.wyu.cloudPlayment.entities.Payment;
+
 import asia.wyu.cloudPlayment.service.PaymentService;
+import com.jepusi.apiCommons.entities.Payment;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

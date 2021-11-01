@@ -1,8 +1,9 @@
 package asia.wyu.cloudPlayment.controller;
 
-import asia.wyu.cloudPlayment.entities.CommonResult;
-import asia.wyu.cloudPlayment.entities.Payment;
+
 import asia.wyu.cloudPlayment.service.PaymentService;
+import com.jepusi.apiCommons.entities.CommonResult;
+import com.jepusi.apiCommons.entities.Payment;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

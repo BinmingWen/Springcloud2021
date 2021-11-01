@@ -1,7 +1,8 @@
 package com.jepusi.cloudConsumer.controller;
 
-import com.jepusi.cloudConsumer.entities.CommonResult;
-import com.jepusi.cloudConsumer.entities.Payment;
+
+import com.jepusi.apiCommons.entities.CommonResult;
+import com.jepusi.apiCommons.entities.Payment;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

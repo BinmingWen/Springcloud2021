@@ -1,6 +1,7 @@
 package asia.wyu.cloudPlayment.dao;
 
-import asia.wyu.cloudPlayment.entities.Payment;
+
+import com.jepusi.apiCommons.entities.Payment;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 
