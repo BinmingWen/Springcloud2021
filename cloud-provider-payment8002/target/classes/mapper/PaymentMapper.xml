@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="asia.wyu.cloudPlayment.dao.PaymentDao">
+    <insert id="create" keyProperty="id" useGeneratedKeys="true" parameterType="com.jepusi.apiCommons.entities.Payment">
+        insert into payment(serial) values(#{serial})
+    </insert>
+
+    <resultMap id="BaseResultMap" type="com.jepusi.apiCommons.entities.Payment">
+        <result column="id" property="id" jdbcType="BIGINT"></result>
+        <result column="serial" property="serial" jdbcType="VARCHAR"></result>
+    </resultMap>
+    <select id="getPaymentById" resultMap="BaseResultMap" parameterType="Long">
+        select * from payment where id = #{id}
+    </select>
+
+</mapper>
+
