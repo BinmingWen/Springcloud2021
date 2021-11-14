@@ -49,6 +49,5 @@ public class PaymentController {
         }else {
             return new CommonResult(404,"查询数据失败,serverPort="+serverPort,null);
         }
-
     }
 }
