@@ -1,5 +1,3 @@
-server:
-  port: 8002
 
 #数据源的配置
 spring:
@@ -24,3 +22,5 @@ eureka:
       defaultZone: http://eureka7002.com:7002/eureka/,http://eureka7001.com:7001/eureka/
   instance:
     prefer-ip-address: true
+server:
+  port: 8002
