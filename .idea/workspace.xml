@@ -73,6 +73,11 @@
       <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/jepusi/service/PaymentFallbackService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/jepusi/service/PaymentHystricService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/jepusi/FeignHystricOrderMain80.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/jepusi/controller/FeignHystricController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/jepusi/service/PaymentFallbackService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/jepusi/service/PaymentHystricService.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/jepusi/OrderFeignMain80.java" afterDir="false" />
@@ -80,23 +85,39 @@
       <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/jepusi/controller/OrderFeignController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/jepusi/service/OrderFeignService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/jepusi/OrderFeignMain80.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/jepusi/config/FeignConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/jepusi/controller/OrderFeignController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/jepusi/service/OrderFeignService.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/src/main/java/com/jepusi/HystrixDashboard9001.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/target/classes/com/jepusi/HystrixDashboard9001.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/jepusi/cloudConsumer/myrule/MySelfRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/jepusi/cloudConsumer/myrule/MySelfRule.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/cloud-consumerconsul-order80.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/jepusi/ConsulConsumerMain80.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/jepusi/config/ApplicationContextConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/jepusi/controller/OrderController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/com/jepusi/ConsulConsumerMain80.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/com/jepusi/config/ApplicationContextConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/com/jepusi/controller/OrderController.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/cloud-consumerzk-order80.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/jepusi/OrderZKmain80.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/jepusi/config/ApplicationContextConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/jepusi/controller/OrderZKController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/com/jepusi/OrderZKmain80.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/com/jepusi/config/ApplicationContextConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/com/jepusi/controller/OrderZKController.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/jepusi/HystricPaymetMain8001.java" afterDir="false" />
@@ -104,16 +125,26 @@
       <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/jepusi/controller/PaymentController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/jepusi/service/PaymentService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/jepusi/HystricPaymetMain8001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/jepusi/controller/PaymentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/jepusi/service/PaymentService.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/cloud-provider-payment8003.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/java/com/jepusi/PaymentMain8003.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/java/com/jepusi/controller/PaymentController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/com/jepusi/PaymentMain8003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/com/jepusi/controller/PaymentController.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/cloud-providerconsul-payment8006.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/jepusi/PaymentMain8006.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/jepusi/constroller/PaymentController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/target/classes/com/jepusi/PaymentMain8006.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/target/classes/com/jepusi/constroller/PaymentController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -423,7 +454,7 @@
       <workItem from="1637755036358" duration="1201000" />
       <workItem from="1638067092057" duration="11471000" />
       <workItem from="1638148160253" duration="7888000" />
-      <workItem from="1638243906372" duration="7692000" />
+      <workItem from="1638243906372" duration="8282000" />
     </task>
     <task id="LOCAL-00001" summary="add entities class of projects">
       <created>1630663900336</created>
@@ -474,7 +505,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636858390275</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add hystrix for springcloud">
+      <created>1638284602001</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638284602001</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,7 +538,8 @@
     <MESSAGE value="resolve some problems" />
     <MESSAGE value="add learn eureka" />
     <MESSAGE value="add tag for eureka" />
-    <option name="LAST_COMMIT_MESSAGE" value="add tag for eureka" />
+    <MESSAGE value="add hystrix for springcloud" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hystrix for springcloud" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
